@@ -1,0 +1,10 @@
+sklearn
+pandas
+librosa
+matplotlib
+lightgbm
+catboost
+xgboost
+streamlit
+seaborn
+pydub
