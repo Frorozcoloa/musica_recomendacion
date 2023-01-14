@@ -5,7 +5,7 @@ st.write("Clasificación de canciones")
 #st.set_page_config(page_title="Upload Music", page_icon=":musical_note:", layout="wide")
 
 def main():
-    uploaded_file = st.file_uploader("Choose a music file", type=["mp3", "wav"])
+    uploaded_file = st.file_uploader("Choose a music file", type=["mp3"])
 
     if uploaded_file is not None:
         uploaded_file, features = preprosecing(uploaded_file)
