@@ -17,8 +17,4 @@ src --> Aquí es donde se pondrá el modelo en producción
 ## Producción
 
 La producción del modelo se va hacer en  ```streamilit```.
-
-El modelo en producción va a tener tres partes.
-
-    1.  Pre-procesamiento, donde se hace la extracción de caraceristicas. En el notebook 1-EDA.ipynb se explica las características que se extrayeron
-    2.  Pos-procesamiento, donde se normalaizan los datos, antes de ingrear al modelo
+Para eso te invitamos darle en siguiente link: <a href="https://huggingface.co/spaces/Frorozcol/music_recommedation">Sistema de recomendación</a>
